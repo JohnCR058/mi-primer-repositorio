@@ -1,2 +1,2 @@
-# mi-primer-readme
+# mi-primer-readmee
 mi primer repositorio del curso de git y GitHub
